@@ -1,14 +1,14 @@
 # cpcfi_problems
 
-- NAME:
-- CODEFORCES USER: 
-- GENERATION NUMBER:
-- MOST DIFFICULT TOPIC: 
+- NAME: Emilio Sebastian Contreras Colmenero 
+- CODEFORCES USER: BICHOTEE
+- GENERATION NUMBER: 2nd
+- MOST DIFFICULT TOPIC: Mathematics
 
 # How to use this repo?
 
 This repository's file organization is up to each athlete, however, keep the following file format for every problem that you upload to Codeforces:
-
+[[O
 * `CONTESTID_RANKING.cpp`
   * Where `CONTESTID` is a number that uniquely identifies each contest within Codeforces
   * and `RANKING` is the problem's letter within that contest
